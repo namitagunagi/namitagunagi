@@ -15,4 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpowerbi.microsoft.com%2Fen-us%2Fdownloads%2F&psig=AOvVaw2H96WToEXfwFymX5eYb1Ot&ust=1715695066202000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj9jLHkioYDFQAAAAAdAAAAABAE" alt="powerbi" width="40" height="40"/> </a> </p>
