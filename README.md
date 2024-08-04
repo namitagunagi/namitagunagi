@@ -1,4 +1,4 @@
-![logo](https://github.com/06namita/06namita/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+![logo](https://github.com/namitagunagi/namitagunagi/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Namita J Gunagi</h1>
 <h3 align="center">A passionate Data Analyst and Power BI</h3>
 
